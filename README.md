@@ -7,9 +7,10 @@ How to run:
 **MUST RUN WITH SUDO SINCE USING RAW SOCKETS**
 
 Output:
+
 For each stop in the route the program will display 
-How many hops it took to get there
-ICMP message type
-Time it took to get there
-IP adrress of the host at that stop
-Name of the host at that stop if it's available
+1. How many hops it took to get there
+2. ICMP message type
+3. Time it took to get there
+4. IP adrress of the host at that stop
+5. Name of the host at that stop if it's available
